@@ -6,7 +6,7 @@ Power BI Dashboard: Análisis de Utilidad y Márgenes — Empresa Appol (Fictici
 Dashboard desarrollado en Power BI para analizar la utilidad y los márgenes de la empresa ficticia Appol.
 El objetivo es visualizar el desempeño financiero, identificar oportunidades de mejora y practicar el flujo completo de análisis de datos: desde la limpieza hasta la presentación de resultados.
 
-#🎯 Objetivo del proyecto
+🎯 # Objetivo del proyecto
 
 El propósito de este análisis es:
 
